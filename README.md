@@ -12,7 +12,8 @@ In this workshop, we will use a **metagenomic approach** to characterize **micro
 
 ## Objectives  
 
-By the end of this session, you will learn:  
+By the end of this session, you will learn: 
+
  ✅ **How to register** a new prokaryotic name in the SeqCode Registry  
  ✅ **Required information** for name registration  
  ✅ **Assessing quality and statistics** of MAGs, including public availability criteria  
