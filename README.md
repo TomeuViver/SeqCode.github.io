@@ -1,8 +1,10 @@
 # SeqCode Registry Workshop
 
+The Code for Nomenclature of Prokaryotes Described from Sequence Data (SeqCode).
+
 ## Description  
 
-The **SeqCode Registry** is a web-based portal for the **registration, tracking, curation, and validation** of prokaryotic names using **genome sequence data** as a basis for classification. It integrates **automated quality checks**, including **nomenclatural validation and genomic reviews**, ensuring taxonomic consistency. Additionally, it features a **multi-scheme taxonomic browser**, allowing researchers to explore and compare different classification systems.  
+The **SeqCode Registry** is a web-based portal for the **registration, tracking, curation, and validation** of prokaryotic names using **genome sequence data** as a basis for classification. It integrates **automated quality checks** and **nomenclatural validation and genomic reviews**. Additionally, it features a **multi-scheme taxonomic browser**, allowing researchers to explore and compare different classification systems.  
 
 In this workshop, we will use a **metagenomic approach** to characterize **microbial diversity** based on **Metagenome-Assembled Genomes (MAGs)**. **High-quality MAGs** that meet the required criteria can be formally described as **novel species** following the **SeqCode** guidelines. The workshop will guide you through the **registration process, quality assessment, and validation of new species names**.
 
@@ -34,7 +36,7 @@ The registry is part of **The SeqCode Initiative**, which promotes the classific
 
 ## Workshop Activities  
 
-During this workshop, we will **navigate through the SeqCode platform**, explore **the registration process**, and discuss **best practices for submitting high-quality MAGs**. 
+During this workshop, we will **navigate through the SeqCode platform**, explore **the registration process**, and discuss **best practices for submitting new species names based on high-quality MAGs**. 
 
 🛠 **Hands-on Activities:**  
 1. **Exploring the SeqCode Registry Interface**  
@@ -44,12 +46,11 @@ During this workshop, we will **navigate through the SeqCode platform**, explore
 
 2. **Registering a New Species Name**  
    - Creating an account and logging in  
-   - Filling in required metadata  
-   - Uploading genomic data  
+   - Filling the required information    
 
 3. **Quality Control Checks**  
+   - Etymology
    - Understanding automated checks  
-   - Verifying genome completeness  
 
 4. **Curation and Validation**  
    - The review process  
@@ -58,11 +59,5 @@ During this workshop, we will **navigate through the SeqCode platform**, explore
 
 ---
 
-## Additional Resources  
-
-📄 **SeqCode Documentation**: [Official Guidelines](https://seqco.de/guidelines)  
-📑 **Nomenclature Code**: [The SeqCode](https://seqco.de/code)  
-🧬 **MAG Quality Standards**: [CheckM & GTDB-Tk](https://github.com/Ecogenomics/CheckM)  
-
-Feel free to ask any questions during the session! 🚀  
+Feel free to ask any questions during the session!
 
