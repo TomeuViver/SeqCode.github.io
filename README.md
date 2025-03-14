@@ -13,14 +13,14 @@ In this workshop, we will use a **metagenomic approach** to characterize **micro
 ## Objectives  
 
 By the end of this session, you will learn:  
-- ✅ **How to register** a new prokaryotic name in the SeqCode Registry  
-- ✅ **Required information** for name registration  
-- ✅ **Assessing quality and statistics** of MAGs, including public availability criteria  
-- ✅ **Filling the etymology table**: Guidelines for proper nomenclature  
-- ✅ **Automated quality checks** for genomic data  
-- ✅ **Curation process**: Reviewing and validating submitted data  
-- ✅ **Validation of published names** under SeqCode  
-- ✅ **Certificates of Validation**: Understanding their role and significance  
+ ✅ **How to register** a new prokaryotic name in the SeqCode Registry  
+ ✅ **Required information** for name registration  
+ ✅ **Assessing quality and statistics** of MAGs, including public availability criteria  
+ ✅ **Filling the etymology table**: Guidelines for proper nomenclature  
+ ✅ **Automated quality checks** for genomic data  
+ ✅ **Curation process**: Reviewing and validating submitted data  
+ ✅ **Validation of published names** under SeqCode  
+ ✅ **Certificates of Validation**: Understanding their role and significance  
 
 ---
 
